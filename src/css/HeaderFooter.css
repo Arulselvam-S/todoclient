@@ -31,7 +31,7 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding:fixed;
+    padding:static;
     bottom: 0;
     color: rgb(0, 183, 255);
     background-color: black;
