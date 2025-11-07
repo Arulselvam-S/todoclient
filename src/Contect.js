@@ -38,10 +38,10 @@ const Contect = () => {
       autoComplete="off"
       className="Form"
     >
+      <TextField id="outlined-basic" label="Name" variant="outlined" />
       <TextField id="outlined-basic" label="Email" variant="outlined" />
       <TextField id="outlined-basic" label="Phone" variant="outlined" />
       <TextField id="outlined-basic" label="Adderess" variant="outlined" />
-      <TextField id="outlined-basic" label="Department" variant="outlined" />
       <button className="btn-submit">Submit</button>
         <div className="icon">
             <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" className="a1"><LinkedInIcon/></a>
